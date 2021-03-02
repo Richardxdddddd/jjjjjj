@@ -1,0 +1,13 @@
+C:\Users\Ricar\Documents\Laboratorio1\LaboratorioProgramacionUno\LaboratorioProgramacionUno\bin\Debug\LaboratorioProgramacionUno.exe.config
+C:\Users\Ricar\Documents\Laboratorio1\LaboratorioProgramacionUno\LaboratorioProgramacionUno\bin\Debug\LaboratorioProgramacionUno.exe
+C:\Users\Ricar\Documents\Laboratorio1\LaboratorioProgramacionUno\LaboratorioProgramacionUno\obj\Debug\Ricardo.csprojAssemblyReference.cache
+C:\Users\Ricar\Documents\Laboratorio1\LaboratorioProgramacionUno\LaboratorioProgramacionUno\obj\Debug\LaboratorioProgramacionUno.Vista.FrmLoginUsuario.resources
+C:\Users\Ricar\Documents\Laboratorio1\LaboratorioProgramacionUno\LaboratorioProgramacionUno\obj\Debug\LaboratorioProgramacionUno.Vista.FrmLoginAdmin.resources
+C:\Users\Ricar\Documents\Laboratorio1\LaboratorioProgramacionUno\LaboratorioProgramacionUno\obj\Debug\LaboratorioProgramacionUno.FrmMenu.resources
+C:\Users\Ricar\Documents\Laboratorio1\LaboratorioProgramacionUno\LaboratorioProgramacionUno\obj\Debug\LaboratorioProgramacionUno.Properties.Resources.resources
+C:\Users\Ricar\Documents\Laboratorio1\LaboratorioProgramacionUno\LaboratorioProgramacionUno\obj\Debug\LaboratorioProgramacionUno.Vista.FrmOperaciones.resources
+C:\Users\Ricar\Documents\Laboratorio1\LaboratorioProgramacionUno\LaboratorioProgramacionUno\obj\Debug\LaboratorioProgramacionUno.Vista.FrmOpers.resources
+C:\Users\Ricar\Documents\Laboratorio1\LaboratorioProgramacionUno\LaboratorioProgramacionUno\obj\Debug\Ricardo.csproj.GenerateResource.cache
+C:\Users\Ricar\Documents\Laboratorio1\LaboratorioProgramacionUno\LaboratorioProgramacionUno\obj\Debug\Ricardo.csproj.CoreCompileInputs.cache
+C:\Users\Ricar\Documents\Laboratorio1\LaboratorioProgramacionUno\LaboratorioProgramacionUno\obj\Debug\LaboratorioProgramacionUno.exe
+C:\Users\Ricar\Documents\Laboratorio1\LaboratorioProgramacionUno\LaboratorioProgramacionUno\obj\Debug\LaboratorioProgramacionUno.pdb
